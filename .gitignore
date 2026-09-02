@@ -1,0 +1,25 @@
+# 编辑器与系统
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+
+# 临时与缓存
+*.tmp
+*.log
+.cache/
+
+# 节点生态（如未来引入）
+node_modules/
+dist/
+build/
+.env
+.env.local
+
+# 操作系统生成
+._*
